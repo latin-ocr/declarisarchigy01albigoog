@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./declarisarchigy01albigoog_0343.png"; bbox 0 0 5544 7750; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 727 2783 1781 2962">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 727 2783 1781 2962">
+     <span class='ocr_line' id='line_1_1' title="bbox 727 2783 1781 2962; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 727 2783 1108 2960; x_wconf 83' lang='lat' dir='ltr'>VITAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1174 2783 1781 2962; x_wconf 85' lang='lat' dir='ltr'><strong>INEDITAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 3217 2195 3343">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 3217 2195 3343">
+     <span class='ocr_line' id='line_1_2' title="bbox 333 3217 2195 3343; baseline 0.003 -7"><span class='ocrx_word' id='word_1_3' title='bbox 333 3217 573 3338; x_wconf 83' lang='lat' dir='ltr'>JURIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 618 3219 927 3338; x_wconf 86' lang='lat' dir='ltr'>CIVILIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 975 3223 1082 3340; x_wconf 87' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 1127 3221 1538 3342; x_wconf 85' lang='lat' dir='ltr'>CANONICI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1585 3221 2195 3343; x_wconf 82' lang='lat' dir='ltr'>PROFESSORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 878 3591 1643 3687">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 878 3591 1643 3687">
+     <span class='ocr_line' id='line_1_3' title="bbox 878 3591 1643 3687; baseline 0.004 -3"><span class='ocrx_word' id='word_1_8' title='bbox 878 3597 923 3684; x_wconf 88' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 961 3591 1200 3687; x_wconf 84' lang='lat' dir='ltr'><strong>MAURO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1239 3593 1643 3687; x_wconf 83' lang='lat' dir='ltr'>FATTORINIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2776 7748">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2776 7748">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2776 7748; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2776 7748; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
